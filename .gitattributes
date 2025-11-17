@@ -1,0 +1,17 @@
+# Track large GeoJSON files (>50MB) with Git LFS
+# Small files will be in the repo and accessible via raw.githubusercontent.com URLs
+# Large files need to be accessed via GitHub Releases or API
+
+data/AU.geojson filter=lfs diff=lfs merge=lfs -text
+data/CA.geojson filter=lfs diff=lfs merge=lfs -text
+data/Chile.geojson filter=lfs diff=lfs merge=lfs -text
+data/ES.geojson filter=lfs diff=lfs merge=lfs -text
+data/IN.geojson filter=lfs diff=lfs merge=lfs -text
+data/JP.geojson filter=lfs diff=lfs merge=lfs -text
+data/MX.geojson filter=lfs diff=lfs merge=lfs -text
+data/NO.geojson filter=lfs diff=lfs merge=lfs -text
+data/NZ.geojson filter=lfs diff=lfs merge=lfs -text
+data/PH.geojson filter=lfs diff=lfs merge=lfs -text
+data/PT.geojson filter=lfs diff=lfs merge=lfs -text
+data/RO.geojson filter=lfs diff=lfs merge=lfs -text
+data/SE.geojson filter=lfs diff=lfs merge=lfs -text

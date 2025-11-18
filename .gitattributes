@@ -3,21 +3,21 @@
 # Large files need to be accessed via GitHub Releases or API
 
 # Files over 100MB (must use LFS)
-data/AU.geojson filter=lfs diff=lfs merge=lfs -text
-data/CA.geojson filter=lfs diff=lfs merge=lfs -text
-data/CL.geojson filter=lfs diff=lfs merge=lfs -text
-data/FR.geojson filter=lfs diff=lfs merge=lfs -text
-data/IE.geojson filter=lfs diff=lfs merge=lfs -text
-data/JP.geojson filter=lfs diff=lfs merge=lfs -text
-data/NO.geojson filter=lfs diff=lfs merge=lfs -text
-data/NZ.geojson filter=lfs diff=lfs merge=lfs -text
-data/PH.geojson filter=lfs diff=lfs merge=lfs -text
-data/RU.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/AU.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/CA.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/CL.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/FR.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/IE.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/JP.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/NO.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/NZ.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/PH.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/RU.geojson filter=lfs diff=lfs merge=lfs -text
 
 # Files 50-100MB (recommended to use LFS)
-data/ES.geojson filter=lfs diff=lfs merge=lfs -text
-data/IN.geojson filter=lfs diff=lfs merge=lfs -text
-data/MX.geojson filter=lfs diff=lfs merge=lfs -text
-data/PT.geojson filter=lfs diff=lfs merge=lfs -text
-data/RO.geojson filter=lfs diff=lfs merge=lfs -text
-data/SE.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/ES.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/IN.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/MX.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/PT.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/RO.geojson filter=lfs diff=lfs merge=lfs -text
+geojson-data/SE.geojson filter=lfs diff=lfs merge=lfs -text

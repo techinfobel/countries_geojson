@@ -3,992 +3,992 @@
     {
       "name": "AU",
       "filename": "AU.geojson",
-      "path": "data/AU.geojson"
+      "path": "geojson-data/AU.geojson"
     },
     {
       "name": "Afghanistan",
       "filename": "AF.geojson",
-      "path": "data/AF.geojson"
+      "path": "geojson-data/AF.geojson"
     },
     {
       "name": "Albania",
       "filename": "AL.geojson",
-      "path": "data/AL.geojson"
+      "path": "geojson-data/AL.geojson"
     },
     {
       "name": "Algeria",
       "filename": "DZ.geojson",
-      "path": "data/DZ.geojson"
+      "path": "geojson-data/DZ.geojson"
     },
     {
       "name": "Andorra",
       "filename": "AD.geojson",
-      "path": "data/AD.geojson"
+      "path": "geojson-data/AD.geojson"
     },
     {
       "name": "Angola",
       "filename": "AO.geojson",
-      "path": "data/AO.geojson"
+      "path": "geojson-data/AO.geojson"
     },
     {
       "name": "Antigua and Barbuda",
       "filename": "AG.geojson",
-      "path": "data/AG.geojson"
+      "path": "geojson-data/AG.geojson"
     },
     {
       "name": "Argentina",
       "filename": "AR.geojson",
-      "path": "data/AR.geojson"
+      "path": "geojson-data/AR.geojson"
     },
     {
       "name": "Armenia",
       "filename": "AM.geojson",
-      "path": "data/AM.geojson"
+      "path": "geojson-data/AM.geojson"
     },
     {
       "name": "Austria",
       "filename": "AT.geojson",
-      "path": "data/AT.geojson"
+      "path": "geojson-data/AT.geojson"
     },
     {
       "name": "Azerbaijan",
       "filename": "AZ.geojson",
-      "path": "data/AZ.geojson"
+      "path": "geojson-data/AZ.geojson"
     },
     {
       "name": "Bahamas",
       "filename": "BS.geojson",
-      "path": "data/BS.geojson"
+      "path": "geojson-data/BS.geojson"
     },
     {
       "name": "Bahrain",
       "filename": "BH.geojson",
-      "path": "data/BH.geojson"
+      "path": "geojson-data/BH.geojson"
     },
     {
       "name": "Bangladesh",
       "filename": "BD.geojson",
-      "path": "data/BD.geojson"
+      "path": "geojson-data/BD.geojson"
     },
     {
       "name": "Barbados",
       "filename": "BB.geojson",
-      "path": "data/BB.geojson"
+      "path": "geojson-data/BB.geojson"
     },
     {
       "name": "Belarus",
       "filename": "BY.geojson",
-      "path": "data/BY.geojson"
+      "path": "geojson-data/BY.geojson"
     },
     {
       "name": "Belgium",
       "filename": "BE.geojson",
-      "path": "data/BE.geojson"
+      "path": "geojson-data/BE.geojson"
     },
     {
       "name": "Belize",
       "filename": "BZ.geojson",
-      "path": "data/BZ.geojson"
+      "path": "geojson-data/BZ.geojson"
     },
     {
       "name": "Benin",
       "filename": "BJ.geojson",
-      "path": "data/BJ.geojson"
+      "path": "geojson-data/BJ.geojson"
     },
     {
       "name": "Bhutan",
       "filename": "BT.geojson",
-      "path": "data/BT.geojson"
+      "path": "geojson-data/BT.geojson"
     },
     {
       "name": "Bolivia",
       "filename": "BO.geojson",
-      "path": "data/BO.geojson"
+      "path": "geojson-data/BO.geojson"
     },
     {
       "name": "Bosnia and Herzegovina",
       "filename": "BA.geojson",
-      "path": "data/BA.geojson"
+      "path": "geojson-data/BA.geojson"
     },
     {
       "name": "Botswana",
       "filename": "BW.geojson",
-      "path": "data/BW.geojson"
+      "path": "geojson-data/BW.geojson"
     },
     {
       "name": "Brazil",
       "filename": "BR.geojson",
-      "path": "data/BR.geojson"
+      "path": "geojson-data/BR.geojson"
     },
     {
       "name": "Brunei Darussalam",
       "filename": "BN.geojson",
-      "path": "data/BN.geojson"
+      "path": "geojson-data/BN.geojson"
     },
     {
       "name": "Bulgaria",
       "filename": "BG.geojson",
-      "path": "data/BG.geojson"
+      "path": "geojson-data/BG.geojson"
     },
     {
       "name": "Burkina Faso",
       "filename": "BF.geojson",
-      "path": "data/BF.geojson"
+      "path": "geojson-data/BF.geojson"
     },
     {
       "name": "Burundi",
       "filename": "BI.geojson",
-      "path": "data/BI.geojson"
+      "path": "geojson-data/BI.geojson"
     },
     {
       "name": "CA",
       "filename": "CA.geojson",
-      "path": "data/CA.geojson"
+      "path": "geojson-data/CA.geojson"
     },
     {
       "name": "Cabo Verde",
       "filename": "CV.geojson",
-      "path": "data/CV.geojson"
+      "path": "geojson-data/CV.geojson"
     },
     {
       "name": "Cambodia",
       "filename": "KH.geojson",
-      "path": "data/KH.geojson"
+      "path": "geojson-data/KH.geojson"
     },
     {
       "name": "Cameroon",
       "filename": "CM.geojson",
-      "path": "data/CM.geojson"
+      "path": "geojson-data/CM.geojson"
     },
     {
       "name": "Central African Republic",
       "filename": "CF.geojson",
-      "path": "data/CF.geojson"
+      "path": "geojson-data/CF.geojson"
     },
     {
       "name": "Chad",
       "filename": "TD.geojson",
-      "path": "data/TD.geojson"
+      "path": "geojson-data/TD.geojson"
     },
     {
       "name": "Chile",
       "filename": "CL.geojson",
-      "path": "data/CL.geojson"
+      "path": "geojson-data/CL.geojson"
     },
     {
       "name": "China",
       "filename": "CN.geojson",
-      "path": "data/CN.geojson"
+      "path": "geojson-data/CN.geojson"
     },
     {
       "name": "Colombia",
       "filename": "CO.geojson",
-      "path": "data/CO.geojson"
+      "path": "geojson-data/CO.geojson"
     },
     {
       "name": "Comoros",
       "filename": "KM.geojson",
-      "path": "data/KM.geojson"
+      "path": "geojson-data/KM.geojson"
     },
     {
       "name": "Congo",
       "filename": "CG.geojson",
-      "path": "data/CG.geojson"
+      "path": "geojson-data/CG.geojson"
     },
     {
       "name": "Costa Rica",
       "filename": "CR.geojson",
-      "path": "data/CR.geojson"
+      "path": "geojson-data/CR.geojson"
     },
     {
       "name": "Croatia",
       "filename": "HR.geojson",
-      "path": "data/HR.geojson"
+      "path": "geojson-data/HR.geojson"
     },
     {
       "name": "Cuba",
       "filename": "CU.geojson",
-      "path": "data/CU.geojson"
+      "path": "geojson-data/CU.geojson"
     },
     {
       "name": "Cyprus",
       "filename": "CY.geojson",
-      "path": "data/CY.geojson"
+      "path": "geojson-data/CY.geojson"
     },
     {
       "name": "Czech Republic",
       "filename": "CZ.geojson",
-      "path": "data/CZ.geojson"
+      "path": "geojson-data/CZ.geojson"
     },
     {
       "name": "Côte d'Ivoire",
       "filename": "CI.geojson",
-      "path": "data/CI.geojson"
+      "path": "geojson-data/CI.geojson"
     },
     {
       "name": "Dem. People's Republic of Korea",
       "filename": "KP.geojson",
-      "path": "data/KP.geojson"
+      "path": "geojson-data/KP.geojson"
     },
     {
       "name": "Democratic Republic of the Congo",
       "filename": "CD.geojson",
-      "path": "data/CD.geojson"
+      "path": "geojson-data/CD.geojson"
     },
     {
       "name": "Denmark",
       "filename": "DK.geojson",
-      "path": "data/DK.geojson"
+      "path": "geojson-data/DK.geojson"
     },
     {
       "name": "Djibouti",
       "filename": "DJ.geojson",
-      "path": "data/DJ.geojson"
+      "path": "geojson-data/DJ.geojson"
     },
     {
       "name": "Dominica",
       "filename": "DM.geojson",
-      "path": "data/DM.geojson"
+      "path": "geojson-data/DM.geojson"
     },
     {
       "name": "Dominican Republic",
       "filename": "DO.geojson",
-      "path": "data/DO.geojson"
+      "path": "geojson-data/DO.geojson"
     },
     {
       "name": "Ecuador",
       "filename": "EC.geojson",
-      "path": "data/EC.geojson"
+      "path": "geojson-data/EC.geojson"
     },
     {
       "name": "Egypt",
       "filename": "EG.geojson",
-      "path": "data/EG.geojson"
+      "path": "geojson-data/EG.geojson"
     },
     {
       "name": "El Salvador",
       "filename": "SV.geojson",
-      "path": "data/SV.geojson"
+      "path": "geojson-data/SV.geojson"
     },
     {
       "name": "Equatorial Guinea",
       "filename": "GQ.geojson",
-      "path": "data/GQ.geojson"
+      "path": "geojson-data/GQ.geojson"
     },
     {
       "name": "Eritrea",
       "filename": "ER.geojson",
-      "path": "data/ER.geojson"
+      "path": "geojson-data/ER.geojson"
     },
     {
       "name": "Estonia",
       "filename": "EE.geojson",
-      "path": "data/EE.geojson"
+      "path": "geojson-data/EE.geojson"
     },
     {
       "name": "Eswatini",
       "filename": "SZ.geojson",
-      "path": "data/SZ.geojson"
+      "path": "geojson-data/SZ.geojson"
     },
     {
       "name": "Ethiopia",
       "filename": "ET.geojson",
-      "path": "data/ET.geojson"
+      "path": "geojson-data/ET.geojson"
     },
     {
       "name": "Fiji",
       "filename": "FJ.geojson",
-      "path": "data/FJ.geojson"
+      "path": "geojson-data/FJ.geojson"
     },
     {
       "name": "Finland",
       "filename": "FI.geojson",
-      "path": "data/FI.geojson"
+      "path": "geojson-data/FI.geojson"
     },
     {
       "name": "France",
       "filename": "FR.geojson",
-      "path": "data/FR.geojson"
+      "path": "geojson-data/FR.geojson"
     },
     {
       "name": "Gabon",
       "filename": "GA.geojson",
-      "path": "data/GA.geojson"
+      "path": "geojson-data/GA.geojson"
     },
     {
       "name": "Gambia",
       "filename": "GM.geojson",
-      "path": "data/GM.geojson"
+      "path": "geojson-data/GM.geojson"
     },
     {
       "name": "Georgia",
       "filename": "GE.geojson",
-      "path": "data/GE.geojson"
+      "path": "geojson-data/GE.geojson"
     },
     {
       "name": "Germany",
       "filename": "DE.geojson",
-      "path": "data/DE.geojson"
+      "path": "geojson-data/DE.geojson"
     },
     {
       "name": "Ghana",
       "filename": "GH.geojson",
-      "path": "data/GH.geojson"
+      "path": "geojson-data/GH.geojson"
     },
     {
       "name": "Greece",
       "filename": "GR.geojson",
-      "path": "data/GR.geojson"
+      "path": "geojson-data/GR.geojson"
     },
     {
       "name": "Greenland",
       "filename": "GL.geojson",
-      "path": "data/GL.geojson"
+      "path": "geojson-data/GL.geojson"
     },
     {
       "name": "Grenada",
       "filename": "GD.geojson",
-      "path": "data/GD.geojson"
+      "path": "geojson-data/GD.geojson"
     },
     {
       "name": "Guatemala",
       "filename": "GT.geojson",
-      "path": "data/GT.geojson"
+      "path": "geojson-data/GT.geojson"
     },
     {
       "name": "Guinea",
       "filename": "GN.geojson",
-      "path": "data/GN.geojson"
+      "path": "geojson-data/GN.geojson"
     },
     {
       "name": "Guinea-Bissau",
       "filename": "GW.geojson",
-      "path": "data/GW.geojson"
+      "path": "geojson-data/GW.geojson"
     },
     {
       "name": "Guyana",
       "filename": "GY.geojson",
-      "path": "data/GY.geojson"
+      "path": "geojson-data/GY.geojson"
     },
     {
       "name": "Haiti",
       "filename": "HT.geojson",
-      "path": "data/HT.geojson"
+      "path": "geojson-data/HT.geojson"
     },
     {
       "name": "Honduras",
       "filename": "HN.geojson",
-      "path": "data/HN.geojson"
+      "path": "geojson-data/HN.geojson"
     },
     {
       "name": "Hungary",
       "filename": "HU.geojson",
-      "path": "data/HU.geojson"
+      "path": "geojson-data/HU.geojson"
     },
     {
       "name": "IN",
       "filename": "IN.geojson",
-      "path": "data/IN.geojson"
+      "path": "geojson-data/IN.geojson"
     },
     {
       "name": "Iceland",
       "filename": "IS.geojson",
-      "path": "data/IS.geojson"
+      "path": "geojson-data/IS.geojson"
     },
     {
       "name": "Indonesia",
       "filename": "ID.geojson",
-      "path": "data/ID.geojson"
+      "path": "geojson-data/ID.geojson"
     },
     {
       "name": "Iran (Islamic Republic of)",
       "filename": "IR.geojson",
-      "path": "data/IR.geojson"
+      "path": "geojson-data/IR.geojson"
     },
     {
       "name": "Iraq",
       "filename": "IQ.geojson",
-      "path": "data/IQ.geojson"
+      "path": "geojson-data/IQ.geojson"
     },
     {
       "name": "Ireland",
       "filename": "IE.geojson",
-      "path": "data/IE.geojson"
+      "path": "geojson-data/IE.geojson"
     },
     {
       "name": "Israel",
       "filename": "IL.geojson",
-      "path": "data/IL.geojson"
+      "path": "geojson-data/IL.geojson"
     },
     {
       "name": "Italy",
       "filename": "IT.geojson",
-      "path": "data/IT.geojson"
+      "path": "geojson-data/IT.geojson"
     },
     {
       "name": "JP",
       "filename": "JP.geojson",
-      "path": "data/JP.geojson"
+      "path": "geojson-data/JP.geojson"
     },
     {
       "name": "Jamaica",
       "filename": "JM.geojson",
-      "path": "data/JM.geojson"
+      "path": "geojson-data/JM.geojson"
     },
     {
       "name": "Jordan",
       "filename": "JO.geojson",
-      "path": "data/JO.geojson"
+      "path": "geojson-data/JO.geojson"
     },
     {
       "name": "Kazakhstan",
       "filename": "KZ.geojson",
-      "path": "data/KZ.geojson"
+      "path": "geojson-data/KZ.geojson"
     },
     {
       "name": "Kenya",
       "filename": "KE.geojson",
-      "path": "data/KE.geojson"
+      "path": "geojson-data/KE.geojson"
     },
     {
       "name": "Kiribati",
       "filename": "KI.geojson",
-      "path": "data/KI.geojson"
+      "path": "geojson-data/KI.geojson"
     },
     {
       "name": "Kosovo",
       "filename": "XK.geojson",
-      "path": "data/XK.geojson"
+      "path": "geojson-data/XK.geojson"
     },
     {
       "name": "Kuwait",
       "filename": "KW.geojson",
-      "path": "data/KW.geojson"
+      "path": "geojson-data/KW.geojson"
     },
     {
       "name": "Kyrgyzstan",
       "filename": "KG.geojson",
-      "path": "data/KG.geojson"
+      "path": "geojson-data/KG.geojson"
     },
     {
       "name": "Lao People's Democratic Republic",
       "filename": "LA.geojson",
-      "path": "data/LA.geojson"
+      "path": "geojson-data/LA.geojson"
     },
     {
       "name": "Latvia",
       "filename": "LV.geojson",
-      "path": "data/LV.geojson"
+      "path": "geojson-data/LV.geojson"
     },
     {
       "name": "Lebanon",
       "filename": "LB.geojson",
-      "path": "data/LB.geojson"
+      "path": "geojson-data/LB.geojson"
     },
     {
       "name": "Lesotho",
       "filename": "LS.geojson",
-      "path": "data/LS.geojson"
+      "path": "geojson-data/LS.geojson"
     },
     {
       "name": "Liberia",
       "filename": "LR.geojson",
-      "path": "data/LR.geojson"
+      "path": "geojson-data/LR.geojson"
     },
     {
       "name": "Libya",
       "filename": "LY.geojson",
-      "path": "data/LY.geojson"
+      "path": "geojson-data/LY.geojson"
     },
     {
       "name": "Liechtenstein",
       "filename": "LI.geojson",
-      "path": "data/LI.geojson"
+      "path": "geojson-data/LI.geojson"
     },
     {
       "name": "Lithuania",
       "filename": "LT.geojson",
-      "path": "data/LT.geojson"
+      "path": "geojson-data/LT.geojson"
     },
     {
       "name": "Luxembourg",
       "filename": "LU.geojson",
-      "path": "data/LU.geojson"
+      "path": "geojson-data/LU.geojson"
     },
     {
       "name": "MX",
       "filename": "MX.geojson",
-      "path": "data/MX.geojson"
+      "path": "geojson-data/MX.geojson"
     },
     {
       "name": "Madagascar",
       "filename": "MG.geojson",
-      "path": "data/MG.geojson"
+      "path": "geojson-data/MG.geojson"
     },
     {
       "name": "Malawi",
       "filename": "MW.geojson",
-      "path": "data/MW.geojson"
+      "path": "geojson-data/MW.geojson"
     },
     {
       "name": "Malaysia",
       "filename": "MY.geojson",
-      "path": "data/MY.geojson"
+      "path": "geojson-data/MY.geojson"
     },
     {
       "name": "Maldives",
       "filename": "MV.geojson",
-      "path": "data/MV.geojson"
+      "path": "geojson-data/MV.geojson"
     },
     {
       "name": "Mali",
       "filename": "ML.geojson",
-      "path": "data/ML.geojson"
+      "path": "geojson-data/ML.geojson"
     },
     {
       "name": "Malta",
       "filename": "MT.geojson",
-      "path": "data/MT.geojson"
+      "path": "geojson-data/MT.geojson"
     },
     {
       "name": "Marshall Islands",
       "filename": "MH.geojson",
-      "path": "data/MH.geojson"
+      "path": "geojson-data/MH.geojson"
     },
     {
       "name": "Mauritania",
       "filename": "MR.geojson",
-      "path": "data/MR.geojson"
+      "path": "geojson-data/MR.geojson"
     },
     {
       "name": "Mauritius",
       "filename": "MU.geojson",
-      "path": "data/MU.geojson"
+      "path": "geojson-data/MU.geojson"
     },
     {
       "name": "Micronesia (Fed. States of)",
       "filename": "FM.geojson",
-      "path": "data/FM.geojson"
+      "path": "geojson-data/FM.geojson"
     },
     {
       "name": "Moldova",
       "filename": "MD.geojson",
-      "path": "data/MD.geojson"
+      "path": "geojson-data/MD.geojson"
     },
     {
       "name": "Monaco",
       "filename": "MC.geojson",
-      "path": "data/MC.geojson"
+      "path": "geojson-data/MC.geojson"
     },
     {
       "name": "Mongolia",
       "filename": "MN.geojson",
-      "path": "data/MN.geojson"
+      "path": "geojson-data/MN.geojson"
     },
     {
       "name": "Montenegro",
       "filename": "ME.geojson",
-      "path": "data/ME.geojson"
+      "path": "geojson-data/ME.geojson"
     },
     {
       "name": "Morocco",
       "filename": "MA.geojson",
-      "path": "data/MA.geojson"
+      "path": "geojson-data/MA.geojson"
     },
     {
       "name": "Mozambique",
       "filename": "MZ.geojson",
-      "path": "data/MZ.geojson"
+      "path": "geojson-data/MZ.geojson"
     },
     {
       "name": "Myanmar",
       "filename": "MM.geojson",
-      "path": "data/MM.geojson"
+      "path": "geojson-data/MM.geojson"
     },
     {
       "name": "NZ",
       "filename": "NZ.geojson",
-      "path": "data/NZ.geojson"
+      "path": "geojson-data/NZ.geojson"
     },
     {
       "name": "Namibia",
       "filename": "NA.geojson",
-      "path": "data/NA.geojson"
+      "path": "geojson-data/NA.geojson"
     },
     {
       "name": "Nauru",
       "filename": "NR.geojson",
-      "path": "data/NR.geojson"
+      "path": "geojson-data/NR.geojson"
     },
     {
       "name": "Nepal",
       "filename": "NP.geojson",
-      "path": "data/NP.geojson"
+      "path": "geojson-data/NP.geojson"
     },
     {
       "name": "Netherlands",
       "filename": "NL.geojson",
-      "path": "data/NL.geojson"
+      "path": "geojson-data/NL.geojson"
     },
     {
       "name": "Nicaragua",
       "filename": "NI.geojson",
-      "path": "data/NI.geojson"
+      "path": "geojson-data/NI.geojson"
     },
     {
       "name": "Niger",
       "filename": "NE.geojson",
-      "path": "data/NE.geojson"
+      "path": "geojson-data/NE.geojson"
     },
     {
       "name": "Nigeria",
       "filename": "NG.geojson",
-      "path": "data/NG.geojson"
+      "path": "geojson-data/NG.geojson"
     },
     {
       "name": "Niue",
       "filename": "NU.geojson",
-      "path": "data/NU.geojson"
+      "path": "geojson-data/NU.geojson"
     },
     {
       "name": "North Macedonia",
       "filename": "MK.geojson",
-      "path": "data/MK.geojson"
+      "path": "geojson-data/MK.geojson"
     },
     {
       "name": "Norway",
       "filename": "NO.geojson",
-      "path": "data/NO.geojson"
+      "path": "geojson-data/NO.geojson"
     },
     {
       "name": "Oman",
       "filename": "OM.geojson",
-      "path": "data/OM.geojson"
+      "path": "geojson-data/OM.geojson"
     },
     {
       "name": "PT",
       "filename": "PT.geojson",
-      "path": "data/PT.geojson"
+      "path": "geojson-data/PT.geojson"
     },
     {
       "name": "Pakistan",
       "filename": "PK.geojson",
-      "path": "data/PK.geojson"
+      "path": "geojson-data/PK.geojson"
     },
     {
       "name": "Palau",
       "filename": "PW.geojson",
-      "path": "data/PW.geojson"
+      "path": "geojson-data/PW.geojson"
     },
     {
       "name": "Panama",
       "filename": "PA.geojson",
-      "path": "data/PA.geojson"
+      "path": "geojson-data/PA.geojson"
     },
     {
       "name": "Papua New Guinea",
       "filename": "PG.geojson",
-      "path": "data/PG.geojson"
+      "path": "geojson-data/PG.geojson"
     },
     {
       "name": "Paraguay",
       "filename": "PY.geojson",
-      "path": "data/PY.geojson"
+      "path": "geojson-data/PY.geojson"
     },
     {
       "name": "Peru",
       "filename": "PE.geojson",
-      "path": "data/PE.geojson"
+      "path": "geojson-data/PE.geojson"
     },
     {
       "name": "Philippines",
       "filename": "PH.geojson",
-      "path": "data/PH.geojson"
+      "path": "geojson-data/PH.geojson"
     },
     {
       "name": "Poland",
       "filename": "PL.geojson",
-      "path": "data/PL.geojson"
+      "path": "geojson-data/PL.geojson"
     },
     {
       "name": "Qatar",
       "filename": "QA.geojson",
-      "path": "data/QA.geojson"
+      "path": "geojson-data/QA.geojson"
     },
     {
       "name": "RO",
       "filename": "RO.geojson",
-      "path": "data/RO.geojson"
+      "path": "geojson-data/RO.geojson"
     },
     {
       "name": "Russia",
       "filename": "RU.geojson",
-      "path": "data/RU.geojson"
+      "path": "geojson-data/RU.geojson"
     },
     {
       "name": "Rwanda",
       "filename": "RW.geojson",
-      "path": "data/RW.geojson"
+      "path": "geojson-data/RW.geojson"
     },
     {
       "name": "SE",
       "filename": "SE.geojson",
-      "path": "data/SE.geojson"
+      "path": "geojson-data/SE.geojson"
     },
     {
       "name": "Saint Kitts and Nevis",
       "filename": "KN.geojson",
-      "path": "data/KN.geojson"
+      "path": "geojson-data/KN.geojson"
     },
     {
       "name": "Saint Lucia",
       "filename": "LC.geojson",
-      "path": "data/LC.geojson"
+      "path": "geojson-data/LC.geojson"
     },
     {
       "name": "Saint Vincent and the Grenadines",
       "filename": "VC.geojson",
-      "path": "data/VC.geojson"
+      "path": "geojson-data/VC.geojson"
     },
     {
       "name": "Samoa",
       "filename": "WS.geojson",
-      "path": "data/WS.geojson"
+      "path": "geojson-data/WS.geojson"
     },
     {
       "name": "San Marino",
       "filename": "SM.geojson",
-      "path": "data/SM.geojson"
+      "path": "geojson-data/SM.geojson"
     },
     {
       "name": "Sao Tome and Principe",
       "filename": "ST.geojson",
-      "path": "data/ST.geojson"
+      "path": "geojson-data/ST.geojson"
     },
     {
       "name": "Saudi Arabia",
       "filename": "SA.geojson",
-      "path": "data/SA.geojson"
+      "path": "geojson-data/SA.geojson"
     },
     {
       "name": "Senegal",
       "filename": "SN.geojson",
-      "path": "data/SN.geojson"
+      "path": "geojson-data/SN.geojson"
     },
     {
       "name": "Serbia",
       "filename": "RS.geojson",
-      "path": "data/RS.geojson"
+      "path": "geojson-data/RS.geojson"
     },
     {
       "name": "Seychelles",
       "filename": "SC.geojson",
-      "path": "data/SC.geojson"
+      "path": "geojson-data/SC.geojson"
     },
     {
       "name": "Sierra Leone",
       "filename": "SL.geojson",
-      "path": "data/SL.geojson"
+      "path": "geojson-data/SL.geojson"
     },
     {
       "name": "Singapore",
       "filename": "SG.geojson",
-      "path": "data/SG.geojson"
+      "path": "geojson-data/SG.geojson"
     },
     {
       "name": "Slovakia",
       "filename": "SK.geojson",
-      "path": "data/SK.geojson"
+      "path": "geojson-data/SK.geojson"
     },
     {
       "name": "Slovenia",
       "filename": "SI.geojson",
-      "path": "data/SI.geojson"
+      "path": "geojson-data/SI.geojson"
     },
     {
       "name": "Solomon Islands",
       "filename": "SB.geojson",
-      "path": "data/SB.geojson"
+      "path": "geojson-data/SB.geojson"
     },
     {
       "name": "Somalia",
       "filename": "SO.geojson",
-      "path": "data/SO.geojson"
+      "path": "geojson-data/SO.geojson"
     },
     {
       "name": "South Africa",
       "filename": "ZA.geojson",
-      "path": "data/ZA.geojson"
+      "path": "geojson-data/ZA.geojson"
     },
     {
       "name": "South Korea",
       "filename": "KR.geojson",
-      "path": "data/KR.geojson"
+      "path": "geojson-data/KR.geojson"
     },
     {
       "name": "South Sudan",
       "filename": "SS.geojson",
-      "path": "data/SS.geojson"
+      "path": "geojson-data/SS.geojson"
     },
     {
       "name": "Spain",
       "filename": "ES.geojson",
-      "path": "data/ES.geojson"
+      "path": "geojson-data/ES.geojson"
     },
     {
       "name": "Sri Lanka",
       "filename": "LK.geojson",
-      "path": "data/LK.geojson"
+      "path": "geojson-data/LK.geojson"
     },
     {
       "name": "State of Palestine",
       "filename": "PS.geojson",
-      "path": "data/PS.geojson"
+      "path": "geojson-data/PS.geojson"
     },
     {
       "name": "Sudan",
       "filename": "SD.geojson",
-      "path": "data/SD.geojson"
+      "path": "geojson-data/SD.geojson"
     },
     {
       "name": "Suriname",
       "filename": "SR.geojson",
-      "path": "data/SR.geojson"
+      "path": "geojson-data/SR.geojson"
     },
     {
       "name": "Switzerland",
       "filename": "CH.geojson",
-      "path": "data/CH.geojson"
+      "path": "geojson-data/CH.geojson"
     },
     {
       "name": "Syrian Arab Republic",
       "filename": "SY.geojson",
-      "path": "data/SY.geojson"
+      "path": "geojson-data/SY.geojson"
     },
     {
       "name": "Taiwan",
       "filename": "TW.geojson",
-      "path": "data/TW.geojson"
+      "path": "geojson-data/TW.geojson"
     },
     {
       "name": "Tajikistan",
       "filename": "TJ.geojson",
-      "path": "data/TJ.geojson"
+      "path": "geojson-data/TJ.geojson"
     },
     {
       "name": "Thailand",
       "filename": "TH.geojson",
-      "path": "data/TH.geojson"
+      "path": "geojson-data/TH.geojson"
     },
     {
       "name": "Timor-Leste",
       "filename": "TL.geojson",
-      "path": "data/TL.geojson"
+      "path": "geojson-data/TL.geojson"
     },
     {
       "name": "Togo",
       "filename": "TG.geojson",
-      "path": "data/TG.geojson"
+      "path": "geojson-data/TG.geojson"
     },
     {
       "name": "Tonga",
       "filename": "TO.geojson",
-      "path": "data/TO.geojson"
+      "path": "geojson-data/TO.geojson"
     },
     {
       "name": "Trinidad and Tobago",
       "filename": "TT.geojson",
-      "path": "data/TT.geojson"
+      "path": "geojson-data/TT.geojson"
     },
     {
       "name": "Tunisia",
       "filename": "TN.geojson",
-      "path": "data/TN.geojson"
+      "path": "geojson-data/TN.geojson"
     },
     {
       "name": "Turkey",
       "filename": "TR.geojson",
-      "path": "data/TR.geojson"
+      "path": "geojson-data/TR.geojson"
     },
     {
       "name": "Turkmenistan",
       "filename": "TM.geojson",
-      "path": "data/TM.geojson"
+      "path": "geojson-data/TM.geojson"
     },
     {
       "name": "Tuvalu",
       "filename": "TV.geojson",
-      "path": "data/TV.geojson"
+      "path": "geojson-data/TV.geojson"
     },
     {
       "name": "Uganda",
       "filename": "UG.geojson",
-      "path": "data/UG.geojson"
+      "path": "geojson-data/UG.geojson"
     },
     {
       "name": "Ukraine",
       "filename": "UA.geojson",
-      "path": "data/UA.geojson"
+      "path": "geojson-data/UA.geojson"
     },
     {
       "name": "United Arab Emirates",
       "filename": "AE.geojson",
-      "path": "data/AE.geojson"
+      "path": "geojson-data/AE.geojson"
     },
     {
       "name": "United Kingdom",
       "filename": "GB.geojson",
-      "path": "data/GB.geojson"
+      "path": "geojson-data/GB.geojson"
     },
     {
       "name": "United Republic of Tanzania",
       "filename": "TZ.geojson",
-      "path": "data/TZ.geojson"
+      "path": "geojson-data/TZ.geojson"
     },
     {
       "name": "United States",
       "filename": "US.geojson",
-      "path": "data/US.geojson"
+      "path": "geojson-data/US.geojson"
     },
     {
       "name": "Uruguay",
       "filename": "UY.geojson",
-      "path": "data/UY.geojson"
+      "path": "geojson-data/UY.geojson"
     },
     {
       "name": "Uzbekistan",
       "filename": "UZ.geojson",
-      "path": "data/UZ.geojson"
+      "path": "geojson-data/UZ.geojson"
     },
     {
       "name": "Vanuatu",
       "filename": "VU.geojson",
-      "path": "data/VU.geojson"
+      "path": "geojson-data/VU.geojson"
     },
     {
       "name": "Venezuela",
       "filename": "VE.geojson",
-      "path": "data/VE.geojson"
+      "path": "geojson-data/VE.geojson"
     },
     {
       "name": "Vietnam",
       "filename": "VN.geojson",
-      "path": "data/VN.geojson"
+      "path": "geojson-data/VN.geojson"
     },
     {
       "name": "Yemen",
       "filename": "YE.geojson",
-      "path": "data/YE.geojson"
+      "path": "geojson-data/YE.geojson"
     },
     {
       "name": "Zambia",
       "filename": "ZM.geojson",
-      "path": "data/ZM.geojson"
+      "path": "geojson-data/ZM.geojson"
     },
     {
       "name": "Zimbabwe",
       "filename": "ZW.geojson",
-      "path": "data/ZW.geojson"
+      "path": "geojson-data/ZW.geojson"
     }
   ]
 }

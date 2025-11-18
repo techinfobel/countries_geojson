@@ -1,6 +1,11 @@
 {
   "countries": [
     {
+      "name": "AU",
+      "filename": "AU.geojson",
+      "path": "data/AU.geojson"
+    },
+    {
       "name": "Afghanistan",
       "filename": "AF.geojson",
       "path": "data/AF.geojson"
@@ -136,6 +141,11 @@
       "path": "data/BI.geojson"
     },
     {
+      "name": "CA",
+      "filename": "CA.geojson",
+      "path": "data/CA.geojson"
+    },
+    {
       "name": "Cabo Verde",
       "filename": "CV.geojson",
       "path": "data/CV.geojson"
@@ -159,6 +169,11 @@
       "name": "Chad",
       "filename": "TD.geojson",
       "path": "data/TD.geojson"
+    },
+    {
+      "name": "Chile",
+      "filename": "CL.geojson",
+      "path": "data/CL.geojson"
     },
     {
       "name": "China",
@@ -321,11 +336,6 @@
       "path": "data/GH.geojson"
     },
     {
-      "name": "Gibraltar",
-      "filename": "GI.geojson",
-      "path": "data/GI.geojson"
-    },
-    {
       "name": "Greece",
       "filename": "GR.geojson",
       "path": "data/GR.geojson"
@@ -376,6 +386,11 @@
       "path": "data/HU.geojson"
     },
     {
+      "name": "IN",
+      "filename": "IN.geojson",
+      "path": "data/IN.geojson"
+    },
+    {
       "name": "Iceland",
       "filename": "IS.geojson",
       "path": "data/IS.geojson"
@@ -409,6 +424,11 @@
       "name": "Italy",
       "filename": "IT.geojson",
       "path": "data/IT.geojson"
+    },
+    {
+      "name": "JP",
+      "filename": "JP.geojson",
+      "path": "data/JP.geojson"
     },
     {
       "name": "Jamaica",
@@ -496,6 +516,11 @@
       "path": "data/LU.geojson"
     },
     {
+      "name": "MX",
+      "filename": "MX.geojson",
+      "path": "data/MX.geojson"
+    },
+    {
       "name": "Madagascar",
       "filename": "MG.geojson",
       "path": "data/MG.geojson"
@@ -581,6 +606,11 @@
       "path": "data/MM.geojson"
     },
     {
+      "name": "NZ",
+      "filename": "NZ.geojson",
+      "path": "data/NZ.geojson"
+    },
+    {
       "name": "Namibia",
       "filename": "NA.geojson",
       "path": "data/NA.geojson"
@@ -626,9 +656,19 @@
       "path": "data/MK.geojson"
     },
     {
+      "name": "Norway",
+      "filename": "NO.geojson",
+      "path": "data/NO.geojson"
+    },
+    {
       "name": "Oman",
       "filename": "OM.geojson",
       "path": "data/OM.geojson"
+    },
+    {
+      "name": "PT",
+      "filename": "PT.geojson",
+      "path": "data/PT.geojson"
     },
     {
       "name": "Pakistan",
@@ -661,6 +701,11 @@
       "path": "data/PE.geojson"
     },
     {
+      "name": "Philippines",
+      "filename": "PH.geojson",
+      "path": "data/PH.geojson"
+    },
+    {
       "name": "Poland",
       "filename": "PL.geojson",
       "path": "data/PL.geojson"
@@ -671,6 +716,11 @@
       "path": "data/QA.geojson"
     },
     {
+      "name": "RO",
+      "filename": "RO.geojson",
+      "path": "data/RO.geojson"
+    },
+    {
       "name": "Russia",
       "filename": "RU.geojson",
       "path": "data/RU.geojson"
@@ -679,6 +729,11 @@
       "name": "Rwanda",
       "filename": "RW.geojson",
       "path": "data/RW.geojson"
+    },
+    {
+      "name": "SE",
+      "filename": "SE.geojson",
+      "path": "data/SE.geojson"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -774,6 +829,11 @@
       "name": "South Sudan",
       "filename": "SS.geojson",
       "path": "data/SS.geojson"
+    },
+    {
+      "name": "Spain",
+      "filename": "ES.geojson",
+      "path": "data/ES.geojson"
     },
     {
       "name": "Sri Lanka",
